@@ -3,4 +3,4 @@
 ## Alt Bilgi
 
 Testttttttt
-[Lorem ipsum] (https://vodreams.com)
+[Lorem ipsum](https://vodreams.com)
