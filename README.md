@@ -1,6 +1,3 @@
-# Deneme
+# Test Repo
 
-## Alt Bilgi
-MEstttttt
-Testttttttt
-[Lorem ipsum](https://vodreams.com)
+## Daily Exercises & Challenges
